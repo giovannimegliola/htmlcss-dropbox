@@ -18,3 +18,67 @@
     --box7-color:#FFD72F;
     --main-color:#FFFFFF;
 }
+
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--main-color);
+    color: var(--footer-color);
+    padding: 10px 20px;
+}
+
+.left {
+    display: flex;
+    align-items: center;
+}
+
+.left ul {
+    display: flex;
+}
+
+.left ul li {
+    margin-right: 20px;
+}
+
+.left ul li a {
+    text-decoration: none;
+    color: var(--footer-color);
+}
+
+.left img {
+    
+    margin-right: 20px;
+}
+
+.right {
+    display: flex;
+    align-items: center;
+}
+
+.right ul {
+    display: flex;
+}
+
+.right ul li {
+    margin-right: 20px;
+}
+
+.right ul li a {
+    text-decoration: none;
+    color: var(--footer-color);
+}
+
+ul{
+    list-style: none;
+}
+
+.btn {
+    background-color: var(--button-color);
+    color: var(--main-color);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
