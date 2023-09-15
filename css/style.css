@@ -3,3 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+:root{
+    --hero-color: #B3D0E7;
+    --button-color:#0160FF;
+    --footer-color:#000000;
+    --box1-color: #A2D39B;
+    --box2-color: #61092B;
+    --box3-color:#0093CE;
+    --box4-color:#FF1B1C;
+    --boxcenter-color:#F5F5F5;
+    --box5-color:#D5001F;
+    --box6-color:#0E2381;
+    --box7-color:#FFD72F;
+    --main-color:#FFFFFF;
+}
