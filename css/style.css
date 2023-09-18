@@ -89,8 +89,8 @@ img{
     width: 100%;
 }
 
-.mb-20{
-    margin-bottom: 20px;
+.mb-30{
+    margin-bottom: 30px;
 }
 
 /* Header */
@@ -121,6 +121,7 @@ header nav a {
 
 h1{
     font-size: 4em;
+    font-weight: 900;
 }
 
 h2{
@@ -147,4 +148,8 @@ h2{
 
 .arrow{
     color: var(--footer-color);
+}
+
+#hero .fa-solid.fa-arrow-down{
+    font-size: 3em;
 }
