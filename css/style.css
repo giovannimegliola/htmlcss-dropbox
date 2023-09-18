@@ -54,6 +54,16 @@ a{
     display: block;
 }
 
+img{
+    display: block;
+    width: 100%;
+}
+
+
+.mb-30{
+    margin-bottom: 30px;
+}
+
 /* Flex tools */
 
 .d-flex{
@@ -84,15 +94,6 @@ a{
     display: inline-block;
 }
 
-img{
-    display: block;
-    width: 100%;
-}
-
-
-.mb-30{
-    margin-bottom: 30px;
-}
 
 /* Header */
 
@@ -154,4 +155,20 @@ h2{
 #hero .fa-solid.fa-arrow-down{
     font-size: 2em;
     font-weight: bold;
+}
+
+
+
+
+/* Footer*/
+
+footer{
+    background-color: var(--footer-color);
+    color: var(--main-color);
+    padding: 30px 0px;
+}
+
+footer a {
+    color: var(--main-color);
+    padding: 6px 0px;
 }
