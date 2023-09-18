@@ -80,7 +80,7 @@ a{
 .btn{
     background-color: var(--button-color);
     color: var(--main-color) ;
-    padding: 6px 10px;
+    padding: 6px 12px;
     display: inline-block;
 }
 
@@ -113,8 +113,38 @@ header nav {
 }
 
 header nav a {
-    padding: 6px 10px;
+    padding: 6px 15px;
     color: var(--footer-color);
 }
 
-/* main */
+/* Main */
+
+h1{
+    font-size: 4em;
+}
+
+h2{
+    font-size: 2em;
+}
+
+#hero{
+    background-color: var(--hero-color);
+    margin-bottom: 100px;
+}
+#hero .container{
+    padding-top: 50px;
+    position: relative;
+    bottom: -70px;
+}
+
+.hero-left{
+    width: 40%;
+}
+
+.hero-right{
+    width: 60%;
+}
+
+.arrow{
+    color: var(--footer-color);
+}
