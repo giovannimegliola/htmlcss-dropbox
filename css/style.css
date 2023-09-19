@@ -264,9 +264,13 @@ h2{
     padding: 30px;
 }
 
-
 .svg-white{
     filter: invert(100%);
+}
+
+.logos{
+    width: 100px;
+    margin: auto;
 }
 
 /* Footer*/
