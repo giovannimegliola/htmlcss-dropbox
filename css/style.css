@@ -244,6 +244,21 @@ h2{
     background-color: var(--box4-color);
 }
 
+.bgbox5{
+    background-color: var(--box5-color);
+}
+
+.bgbox6{
+    background-color: var(--hero-color);
+}
+
+.bgbox7{
+    background-color: var(--box6-color);
+}
+
+.bgbox8{
+    background-color: var(--box7-color);
+}
 
 /* Footer*/
 
