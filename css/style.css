@@ -59,12 +59,11 @@ img{
     width: 100%;
 }
 
-
 .mb-30{
     margin-bottom: 30px;
 }
 
-.mr-30{
+label{
     margin-right: 30px;
 }
 
@@ -160,6 +159,28 @@ h2{
     font-weight: bold;
 }
 
+#planes.container{
+    margin-top: 100px;
+}
+
+.planes{
+    width: calc(100% / 3 -20px);
+    border: 1px solid grey;
+}
+
+.planes-header{
+    text-align: center;
+    border-bottom: 1px solid grey;
+    padding: 10px o;
+}
+
+.planes-body{
+    padding: 10px;
+}
+
+#call-to-action{
+    background-color: var(--hero-color);
+}
 
 
 
