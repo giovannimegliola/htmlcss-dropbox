@@ -260,6 +260,10 @@ h2{
     background-color: var(--box7-color);
 }
 
+.box-center{
+    padding: 30px;
+}
+
 /* Footer*/
 
 footer{
