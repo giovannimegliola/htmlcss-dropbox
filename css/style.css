@@ -223,6 +223,27 @@ h2{
     height: calc(100vw / 3);
 }
 
+.brand-box{
+    width: 50%;
+    height: 50%;
+}
+
+.bgbox1{
+    background-color: var(--box1-color);
+}
+
+.bgbox2{
+    background-color: var(--box2-color);
+}
+
+.bgbox3{
+    background-color: var(--box3-color);
+}
+
+.bgbox4{
+    background-color: var(--box4-color);
+}
+
 
 /* Footer*/
 
