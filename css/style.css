@@ -51,7 +51,7 @@ ul{
 
 a{
     text-decoration: none;
-    display: block;
+    display: inline-block;
 }
 
 img{
@@ -66,6 +66,16 @@ img{
 label{
     margin-right: 30px;
 }
+
+.link{
+    text-decoration: underline;
+}
+
+.check{
+    color: var(--button-color);
+}
+
+
 
 /* Flex tools */
 
@@ -164,18 +174,18 @@ h2{
 }
 
 .planes{
-    width: calc(100% / 3 -20px);
+    width: 30%;
     border: 1px solid grey;
 }
 
 .planes-header{
     text-align: center;
     border-bottom: 1px solid grey;
-    padding: 10px o;
+    padding: 10px 0;
 }
 
 .planes-body{
-    padding: 10px;
+    padding: 15px;
 }
 
 #call-to-action{
