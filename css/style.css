@@ -176,6 +176,7 @@ h2{
 .planes{
     width: 30%;
     border: 1px solid grey;
+    font-size: 0.95em;
 }
 
 .planes-header{
