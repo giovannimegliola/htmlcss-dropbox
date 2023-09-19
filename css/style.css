@@ -277,6 +277,14 @@ h2{
     margin: auto;
 }
 
+details > summary {
+    padding: 5px 0px;
+    border: none;
+    cursor: pointer;
+}
+  
+
+
 /* Footer*/
 
 footer{
