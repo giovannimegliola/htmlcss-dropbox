@@ -107,6 +107,14 @@ label{
     display: inline-block;
 }
 
+.btnw{
+    background-color: var(--main-color);
+    color: var(--footer-color);
+    padding: 6px 12px;
+    display: inline-block;
+    border: 1px solid black;
+}
+
 
 /* Header */
 
@@ -183,11 +191,19 @@ h2{
     text-align: center;
     border-bottom: 1px solid grey;
     padding: 10px 0;
+    font-size: 0.95em;
 }
 
 .planes-body{
     padding: 15px;
+    font-size: 0.95em;
 }
+
+.partner-content{
+    padding: 15px;
+    font-size: 0.95em;
+}
+
 
 #call-to-action{
     background-color: var(--hero-color);
