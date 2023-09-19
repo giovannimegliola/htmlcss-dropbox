@@ -264,6 +264,11 @@ h2{
     padding: 30px;
 }
 
+
+.svg-white{
+    filter: invert(100%);
+}
+
 /* Footer*/
 
 footer{
