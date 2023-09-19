@@ -98,6 +98,10 @@ label{
     align-content: flex-start;
 }
 
+.wrap {
+    flex-wrap: wrap;
+}
+
 /* Button */
 
 .btn{
@@ -201,6 +205,11 @@ h2{
 
 .partner-content{
     padding: 15px;
+    font-size: 0.95em;
+}
+
+.operations-body {
+    padding: 0 10px;;
     font-size: 0.95em;
 }
 
