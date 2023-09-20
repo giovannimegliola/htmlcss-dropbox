@@ -63,8 +63,20 @@ img{
     margin-bottom: 30px;
 }
 
-.pt-30{
-    padding-top: 30px;
+.mt-80{
+    margin-top: 80px;
+}
+
+.mb-80{
+    margin-bottom: 80px;
+}
+
+.pt-50{
+    padding-top: 50px;
+}
+
+.pb-50{
+    padding-bottom: 50px;
 }
 
 label{
